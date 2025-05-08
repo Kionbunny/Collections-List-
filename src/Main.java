@@ -28,6 +28,7 @@ public class Main {
         v1.add("forGeeks");
         v1.add(3);
         v1.set(0,69);
+        v1.set(1,99);
 
         // Printing the vector elements to the console
         System.out.println("Vector v1 is " + v1);
